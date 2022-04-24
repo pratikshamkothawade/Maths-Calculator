@@ -1,6 +1,6 @@
 # Maths-Calculator
 A user-friendly arithmetic calculator application that allows users to execute complex mathematical calculations within fraction of seconds
-## How to Calculate:
+## How to Use Calculator:
  1. Follow the given Instructions: Press C and start calculating your maths.
  2. Press the 'Equals' button and your answer is infront of you.👍
  3. Hurray! It's that Easy! 👏
